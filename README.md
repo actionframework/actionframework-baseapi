@@ -1,10 +1,13 @@
 ActionFramework BaseAPI
 =======================
 
-__DO NOT USE THIS GEM__
+__THIS GEM IS WORKING, BUT I WOULDN'T RECOMMEND IT FOR PRODUCTION USE FOR NOW__
 
 This is just a sideproject of me that I would like to merge with ActionFramework in the future.
-
-It is absolutly not ready for use yet, the current version doesn't even work. 
+I finally got this working, I will add some documentation for it in the future.
 
 This project has nothing to do with ActionFramework itself, it is just a submodule for it.
+
+## Licence
+
+MIT
