@@ -8,6 +8,6 @@ I finally got this working, I will add some documentation for it in the future.
 
 This project has nothing to do with ActionFramework itself, it is just a submodule for it.
 
-## Licence
+## License
 
 MIT

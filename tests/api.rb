@@ -1,4 +1,4 @@
 ########################
-## Licenced under MIT ##
+## Licensed under MIT ##
 #### © BramVDB.com #####
 ########################
